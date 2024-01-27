@@ -17,5 +17,11 @@ ____
 ### How to reach me: 
   + telegram: [@nualinanuichto](https://t.me/nualinanuichto)
   + email: alinapriymak@yandex.ru
- 
+
 <img src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif" align="center" height="350px" width="350px">
+
+____
+
+### Codewars:
+
+![codewars](https://www.codewars.com/users/alinapriymak/badges/large)
