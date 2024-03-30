@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alina Priymak
+<h1 align="center">Hi there, I'm Alina Priymak!
 <h3 align="center">Novice QA Engineer </h3>
 
 
