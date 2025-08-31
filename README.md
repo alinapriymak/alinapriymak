@@ -4,8 +4,6 @@
 
 On the way from German translator to QA :heart:
 
-I just started my journey into the world of software testing and want to develop in this sphere.
-
 ____
 
 ### Languages and Tools:
