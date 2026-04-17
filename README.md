@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Alina Priymak
-<h3 align="center">Novice QA Engineer </h3>
+<h3 align="center">QA Engineer </h3>
 
-
-On the way from German translator to QA :heart:
 
 ____
 
