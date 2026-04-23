@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Alina Priymak
 <h3 align="center">QA Engineer </h3>
 
+___
 
-<h3>Stack:</h3>
-
+<h3>Stack: </h3>
 
 <h4>Languages:</h4>
 
@@ -30,6 +30,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+___
 
 ### How to reach me: 
   + telegram: [@nualinanuichto](https://t.me/nualinanuichto)
