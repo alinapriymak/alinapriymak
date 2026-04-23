@@ -30,16 +30,20 @@ ___
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+
 ___
 
-### How to reach me: 
-  + telegram: [@nualinanuichto](https://t.me/nualinanuichto)
-  + email: alinapriymak1996@gmail.com
+<h3>How to reach me: </h3>
 
-<img src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif" align="center" height="350px" width="350px">
+  + telegram: [@nualinanuichto](https://t.me/nualinanuichto)
+  
+  + email: alinapriymak1996@gmail.com
+    
+
+<img src="https://media1.tenor.com/m/NZqiUoAnAFsAAAAd/cat-computer.gif" align="center" height="350" width="350"> 
 
 ____
 
-### Codewars:
+<h3>Codewars: </h3>
 
 ![codewars](https://www.codewars.com/users/alinapriymak/badges/large)
