@@ -3,17 +3,19 @@
 
 ___
 
-<h3>Stack: </h3>
+<h3>Stack & Skills: </h3>
 
 <h4>Languages:</h4>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 
 <h4>Testing Frameworks and Libraries:</h4>
 
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![Requests](https://img.shields.io/badge/requests-090909?style=for-the-badge&logo=python&logoColor=3776AB) 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-090909?style=for-the-badge&logo=testrail&logoColor=pink) 
 
 <h4>API Tools and Documentation:</h4>
 
